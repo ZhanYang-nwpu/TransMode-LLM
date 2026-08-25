@@ -6,7 +6,11 @@
 
 <strong>School of Artificial Intelligence, OPtics, and ElectroNics (iOPEN), Northwestern Polytechnical University</strong>
 
-<strong> Wuhan University of Technology </strong>
+<strong> State Key Laboratory of Maritime Technology and Safety, Wuhan University of Technology </strong>
+
+<strong> Intelligent Transportation Systems Research Center, Wuhan University of Technology </strong>
+
+<strong> School of Transportation and Logistics Engineering, Wuhan University of Technology </strong>
 
 <strong>State Key Laboratory of Information Engineering in Surveying, Mapping and Remote Sensing, Wuhan University </strong>
 
