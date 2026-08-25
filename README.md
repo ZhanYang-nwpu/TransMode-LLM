@@ -14,6 +14,9 @@
 
 <strong>State Key Laboratory of Information Engineering in Surveying, Mapping and Remote Sensing, Wuhan University </strong>
 
+<strong>Institute of AI for Industries, Chinese Academy of Sciences </strong>
+
+
 </div>
 
 This is the official repository for paper **"TransMode-LLM: Knowledge-Infused LLM Adaptation toward Individual Transportation Modes Recognition in GPS Trajectories"**.
