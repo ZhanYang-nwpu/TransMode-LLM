@@ -8,7 +8,7 @@
 
 <strong> Wuhan University of Technology </strong>
 
-<strong>The State Key Laboratory of Information Engineering in Surveying, Mapping and Remote Sensing, Wuhan University </strong>
+<strong>State Key Laboratory of Information Engineering in Surveying, Mapping and Remote Sensing, Wuhan University </strong>
 
 </div>
 
