@@ -6,7 +6,7 @@
 
 <strong>School of Artificial Intelligence, OPtics, and ElectroNics (iOPEN), Northwestern Polytechnical University</strong>
 
-<strong> University</strong>
+<strong> Wuhan University of Technology </strong>
 
 <strong>The State Key Laboratory of Information Engineering in Surveying, Mapping and Remote Sensing, Wuhan University </strong>
 
