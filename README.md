@@ -42,8 +42,12 @@ This is an ongoing project. We will be working on improving it.
 <div align="center">
   <img src="assets/data-1.jpg"/>
 </div>
-
-
+<div align="center">
+  <img src="assets/data-2.jpg"/>
+</div>
+<div align="center">
+  <img src="assets/data-3.jpg"/>
+</div>
 
 ## 🚀 TransMode-LLM Model
 
@@ -63,7 +67,7 @@ This is an ongoing project. We will be working on improving it.
 
 ## 👁️ Visualization
 <div align="center">
-  <img src="assets/visual.png"/ height="500">
+  <img src="assets/visual.png"/ height="600">
 </div>
 
 
