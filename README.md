@@ -37,6 +37,15 @@ This is an ongoing project. We will be working on improving it.
 
 
 
+## 💬  Knowledge-Infused LLM Adaptation toward Individual Transportation Modes Recognition
+
+<div align="center">
+  <img src="assets/intro.png"/>
+</div>
+
+
+
+
 ## 🌋 HumMob-ChCh Dataset
 
 <div align="center">
