@@ -40,13 +40,13 @@ This is an ongoing project. We will be working on improving it.
 ## 🌋 HumMob-ChCh Dataset
 
 <div align="center">
-  <img src="assets/data-1.jpg"/>
+  <img src="assets/data-1.png"/>
 </div>
 <div align="center">
-  <img src="assets/data-2.jpg"/>
+  <img src="assets/data-2.png"/>
 </div>
 <div align="center">
-  <img src="assets/data-3.jpg"/>
+  <img src="assets/data-3.png"/>
 </div>
 
 ## 🚀 TransMode-LLM Model
