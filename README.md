@@ -45,6 +45,12 @@ This is an ongoing project. We will be working on improving it.
 
 
 
+## TransMode-LLM Model
+
+<div align="center">
+  <img src="assets/model.jpg"/>
+</div>
+
 
 
 ## 📜Reference
