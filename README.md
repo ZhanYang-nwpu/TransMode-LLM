@@ -1,4 +1,8 @@
 # TransMode-LLM: Knowledge-Infused LLM Adaptation toward Individual Transportation Modes Recognition in GPS Trajectories
+<p align="center">
+    <img src="https://i.imgur.com/waxVImv.png" alt="Oryx Video-ChatGPT">
+</p>
+
 
 
 <div align="center">
@@ -25,10 +29,21 @@ This is the official repository for paper **"TransMode-LLM: Knowledge-Infused LL
 ## Please share a <font color='orange'>STAR ⭐</font> if this project does help
 
 
+
 ## 📢 Latest Updates
 This is an ongoing project. We will be working on improving it.
 - 📦 Codebase and model inference tutorial coming soon! 🚀
 ---
+
+
+
+## 🌋 HumMob-ChCh Dataset
+
+<div align="center">
+  <img src="assets/data-1.jpg"/>
+</div>
+
+
 
 
 
