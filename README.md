@@ -45,8 +45,21 @@ This is an ongoing project. We will be working on improving it.
 
 
 
-## TransMode-LLM Model
+## 🚀 TransMode-LLM Model
 
+<div align="center">
+  <img src="assets/model.jpg"/>
+</div>
+
+
+
+## 📦 Performance
+<div align="center">
+  <img src="assets/performance.png"/ height="400">
+</div>
+
+
+## 👁️ Visualization
 <div align="center">
   <img src="assets/model.jpg"/>
 </div>
@@ -63,5 +76,8 @@ If you found this code useful, please cite the paper. Welcome :+1:_<big>`Fork an
   }
 ```
 
+
+## 🤖 Contact
+If you have any questions about this project, please feel free to contact zhanyangnwpu@gmail.com.
 
 
