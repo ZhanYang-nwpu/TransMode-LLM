@@ -61,7 +61,7 @@ This is an ongoing project. We will be working on improving it.
 
 ## 👁️ Visualization
 <div align="center">
-  <img src="assets/visual.png"/>
+  <img src="assets/visual.png"/ height="500">
 </div>
 
 
