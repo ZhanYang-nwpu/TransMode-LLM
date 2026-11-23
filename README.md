@@ -47,4 +47,15 @@ This is an ongoing project. We will be working on improving it.
 
 
 
+## 📜Reference
+If you found this code useful, please cite the paper. Welcome :+1:_<big>`Fork and Star`</big>_:+1:, then I will let you know when we update.
+```
+@inproceedings{zhandoes,
+  author={Yang Zhan, Haowen Xiang, Yan Li, Yu Zhang, and Zehao Yuan},
+  title={TransMode-LLM: Knowledge-Infused LLM Adaptation toward Individual Transportation Modes Recognition in GPS Trajectories},
+  year={2026}
+  }
+```
+
+
 
