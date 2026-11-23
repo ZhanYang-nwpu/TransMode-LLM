@@ -49,13 +49,13 @@ This is an ongoing project. We will be working on improving it.
   <img src="assets/data-3.png"/ height="250">
 </div>
 <div align="center">
-  <img src="assets/data-4.png"/>
+  <img src="assets/data-4.png"/ height="200">
 </div>
 <div align="center">
-  <img src="assets/data-5.png"/>
+  <img src="assets/data-5.png"/ height="160">
 </div>
 <div align="center">
-  <img src="assets/data-6.png"/>
+  <img src="assets/data-6.png"/ height="150">
 </div>
 
 ## 🚀 TransMode-LLM Model
