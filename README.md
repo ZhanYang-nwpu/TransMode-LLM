@@ -40,10 +40,10 @@ This is an ongoing project. We will be working on improving it.
 ## 🌋 HumMob-ChCh Dataset
 
 <div align="center">
-  <img src="assets/data-1.png"/>
+  <img src="assets/data-1.png"/ height="500">
 </div>
 <div align="center">
-  <img src="assets/data-2.png"/>
+  <img src="assets/data-2.png"/ height="350">
 </div>
 <div align="center">
   <img src="assets/data-3.png"/>
@@ -59,10 +59,10 @@ This is an ongoing project. We will be working on improving it.
 
 ## 📦 Performance
 <div align="center">
-  <img src="assets/performence1.png"/ >
+  <img src="assets/performence1.png"/ height="600">
 </div>
 <div align="center">
-  <img src="assets/performence2.png"/ >
+  <img src="assets/performence2.png"/ height="600">
 </div>
 
 ## 👁️ Visualization
