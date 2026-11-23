@@ -55,9 +55,11 @@ This is an ongoing project. We will be working on improving it.
 
 ## 📦 Performance
 <div align="center">
-  <img src="assets/performance.png"/ height="400">
+  <img src="assets/performance1.png"/ >
 </div>
-
+<div align="center">
+  <img src="assets/performance2.png"/ >
+</div>
 
 ## 👁️ Visualization
 <div align="center">
